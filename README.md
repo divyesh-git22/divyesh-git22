@@ -1,6 +1,6 @@
 💫 About Me:
 
-I am Divyesh Tapas Debnath, a second-year Computer Science student and Frontend Developer. I am currently building a full-stack Artificial Jewellery E-Commerce website for a client, focusing on responsive design, performance, and user experience. I am passionate about frontend development and enjoy combining physics concepts with programming to create logical and innovative solutions.
+I am Divyesh Tapas Debnath, a second-year Computer Science student and Frontend Developer. I am passionate about frontend development and enjoy combining physics concepts with programming to create logical and innovative solutions.
 
 
 # 💻 Tech Stack:
